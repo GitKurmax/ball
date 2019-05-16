@@ -12,6 +12,7 @@ document.body.addEventListener('click', function(event) {
   if (ballTop < 0) {
     ballTop = 0;
   }
+  
   if (ballLeft < 0) {
     ballLeft = 0;
   }
